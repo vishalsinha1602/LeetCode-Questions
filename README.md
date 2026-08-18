@@ -7,12 +7,14 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -27,9 +29,18 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0009-palindrome-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
