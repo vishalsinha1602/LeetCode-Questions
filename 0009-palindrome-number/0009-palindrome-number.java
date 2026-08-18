@@ -15,17 +15,10 @@ class Solution {
         }
 
         if(original==reversed)
-        {
             return true;
-        }
 
-        else
-        {
-            return false;
-        }
 
-        
-
+    return false;
         
     }
 }
