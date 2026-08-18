@@ -28,4 +28,8 @@ Starting Dsa Problem  for next 100 Days Consistently
 | ------- |
 | [0015-3sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
