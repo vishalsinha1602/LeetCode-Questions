@@ -16,15 +16,12 @@ class Solution {
                 map.put(fruit, 1);
             }
 
-            while (map.size() > 2) {
+            while(map.size()>2){
 
-                int leftFruit = fruits[left];
+                map.put(fruits[left],map.get(fruits[left])-1);
 
-                map.put(leftFruit, map.get(leftFruit) - 1);
-
-                if (map.get(leftFruit) == 0) {
-                    map.remove(leftFruit);
-                }
+                if(map.get(fruits[left])==0)
+                 map.remove(fruits[left]);
 
                 left++;
             }
