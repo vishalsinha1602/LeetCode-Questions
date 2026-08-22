@@ -14,6 +14,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0209-minimum-size-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -80,6 +81,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
