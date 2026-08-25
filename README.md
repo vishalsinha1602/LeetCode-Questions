@@ -12,6 +12,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0724-find-pivot-index) |
@@ -68,6 +69,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -89,6 +91,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
