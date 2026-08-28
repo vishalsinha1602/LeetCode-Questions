@@ -14,6 +14,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0209-minimum-size-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -90,6 +91,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -97,6 +99,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
