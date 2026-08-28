@@ -27,6 +27,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0015-3sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0344-reverse-string) |
@@ -80,6 +81,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0567-permutation-in-string) |
