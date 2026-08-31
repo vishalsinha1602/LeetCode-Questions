@@ -10,6 +10,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0015-3sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -61,6 +62,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 ## Quicksort
 |  |
