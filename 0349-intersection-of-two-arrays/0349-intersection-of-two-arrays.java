@@ -10,7 +10,7 @@ class Solution {
             set.add(num);
         }
 
-        // Intersection ko isi Set mein rakh do
+      
         HashSet<Integer> result = new HashSet<>();
 
         for (int num : nums2) {
@@ -19,7 +19,7 @@ class Solution {
             }
         }
 
-        // Set → int[]
+    
         int[] ans = new int[result.size()];
 
         int i = 0;
