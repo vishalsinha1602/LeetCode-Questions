@@ -151,4 +151,8 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0152-maximum-product-subarray](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
