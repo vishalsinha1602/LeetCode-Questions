@@ -1,14 +1,29 @@
 class Solution {
     public int maximumSum(int[] arr) {
 
+//                      Current arr[i]
+//                            |
+//           --------------------------------
+//           |                              |
+//        NO DELETE                      DELETE
+//           |                              |
+//      ----------------             ----------------
+//      |              |             |              |
+//   new start       continue    already deleted   delete now
+//      |              |             |              |
+//     v1             v2            v3             v4
+
         int noDelete = arr[0];
         int oneDelete = 0;
         int ans = arr[0];
 
         for (int i = 1; i < arr.length; i++) {
 
+            // no delete
             int v1 = arr[i];
             int v2 = noDelete + arr[i];
+
+            // delete
             int v3 = oneDelete + arr[i];
             int v4 = noDelete;
 
