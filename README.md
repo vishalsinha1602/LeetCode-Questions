@@ -60,6 +60,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -160,4 +161,8 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0595-big-countries](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
