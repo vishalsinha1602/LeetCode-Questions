@@ -42,6 +42,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -61,6 +62,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -165,4 +167,9 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
