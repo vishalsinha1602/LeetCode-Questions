@@ -47,6 +47,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
