@@ -33,6 +33,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0009-palindrome-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Quicksort
 |  |
 | ------- |
