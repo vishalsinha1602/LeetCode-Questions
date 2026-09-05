@@ -10,6 +10,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0015-3sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | ------- |
 | [0015-3sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -88,6 +90,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
