@@ -11,6 +11,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0018-4sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
