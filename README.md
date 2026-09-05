@@ -9,6 +9,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0011-container-with-most-water](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0057-insert-interval) |
@@ -59,6 +60,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
