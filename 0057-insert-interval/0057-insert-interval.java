@@ -1,43 +1,76 @@
 class Solution {
+
     public int[][] insert(int[][] intervals, int[] newInterval) {
 
-        List<int[]> result = new ArrayList<>();
+        ArrayList<int[]> newList = new ArrayList<>();
+        boolean inserted = false;
 
-        int start = newInterval[0];
-        int end = newInterval[1];
+        // Step 1: newInterval ko correct position par insert karo
+        for (int i = 0; i < intervals.length; i++) {
 
-       for (int i = 0; i < intervals.length; i++) {
+            if (intervals[i][0] <= newInterval[0]) {
 
-            int currStart=intervals[i][0];
-            int currEnd = intervals[i][1];
+                // Current interval pehle hai
+                newList.add(intervals[i]);
 
-            if (currEnd < start) {
+            } else {
 
-                result.add(new int[]{currStart, currEnd});
-            }
+                // Current interval newInterval ke baad hai
+                if (inserted == false) {
 
-            else if (currStart > end) {
-
-                result.add(new int[]{start, end});
-
-                for (int j = i; j < intervals.length; j++) {
-                    result.add(intervals[j]);
+                    newList.add(newInterval);
+                    inserted = true;
                 }
 
-                return result.toArray(new int[result.size()][]);
-            }
-
-            else {
-
-                start = Math.min(start, currStart);
-                end = Math.max(end, currEnd);
+                newList.add(intervals[i]);
             }
         }
 
-      
-        result.add(new int[]{start, end});
+        // Agar abhi tak newInterval insert nahi hua
+        if (inserted == false) {
+            newList.add(newInterval);
+        }
+
+        // ArrayList<int[]> -> int[][]
+        int[][] result = newList.toArray(new int[0][]);
+
+        // Step 2: merge overlapping intervals
+        return merge(result);
+    }
+
+
+    public int[][] merge(int[][] intervals) {
+
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+
+        List<int[]> result = new ArrayList<>();
+
+        int start1 = intervals[0][0];
+        int end1 = intervals[0][1];
+
+        for (int i = 1; i < intervals.length; i++) {
+
+            int start2 = intervals[i][0];
+            int end2 = intervals[i][1];
+
+            // Overlap
+            if (start2 <= end1) {
+
+                end1 = Math.max(end1, end2);
+
+            } else {
+
+                // No overlap
+                result.add(new int[]{start1, end1});
+
+                start1 = start2;
+                end1 = end2;
+            }
+        }
+
+        // Last interval
+        result.add(new int[]{start1, end1});
 
         return result.toArray(new int[result.size()][]);
-
     }
 }
