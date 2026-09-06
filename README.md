@@ -189,6 +189,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [1068-product-sales-analysis-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
