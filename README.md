@@ -129,6 +129,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -207,10 +208,15 @@ Starting Dsa Problem  for next 100 Days Consistently
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
