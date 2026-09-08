@@ -11,39 +11,70 @@
 class Solution {
     public ListNode oddEvenList(ListNode head) {
 
-        ListNode dummy = new ListNode(-1);
-        ListNode curr = dummy;
+        // Original linked list ko traverse karunga aur odd positions (1st, 3rd, 5th...) wale nodes ki values new   list mein store karunga.
+        // Phir dobara original linked list ko traverse karunga aur even positions (2nd, 4th, 6th...) wale nodes new list ke end mein store karunga.
+        // Finally, new linked list return kar dunga
 
-        int index = 1;
-        ListNode temp = head;
+        // ListNode dummy = new ListNode(-1);
+        // ListNode curr = dummy;
 
-        // Odd positions
-        while (temp != null) {
+        // int index = 1;
+        // ListNode temp = head;
 
-            if (index % 2 != 0) {
-                curr.next = new ListNode(temp.val);
-                curr = curr.next;
-            }
+     
+        // while (temp != null) {
 
-            temp = temp.next;
-            index++;
+        //     if (index % 2 != 0) {
+        //         curr.next = new ListNode(temp.val);
+        //         curr = curr.next;
+        //     }
+
+        //     temp = temp.next;
+        //     index++;
+        // }
+
+        // // Even positions
+        // index = 1;
+        // temp = head;
+
+        // while (temp != null) {
+
+        //     if (index % 2 == 0) {
+        //         curr.next = new ListNode(temp.val);
+        //         curr = curr.next;
+        //     }
+
+        //     temp = temp.next;
+        //     index++;
+        // }
+
+        // return dummy.next;
+
+        if (head == null) {
+            return null;
         }
 
-        // Even positions
-        index = 1;
-        temp = head;
+        ListNode odd=head;
+        ListNode even=head.next;
+        ListNode evenHead=head.next;
 
-        while (temp != null) {
+        while(even!=null && even.next!=null)
+        {
+            odd.next = even.next;
+            odd = odd.next;
 
-            if (index % 2 == 0) {
-                curr.next = new ListNode(temp.val);
-                curr = curr.next;
-            }
 
-            temp = temp.next;
-            index++;
+            even.next = odd.next;
+            even=even.next;
         }
 
-        return dummy.next;
+        odd.next = evenHead;
+
+
+
+    return head;
+
+
+
     }
 }
