@@ -51,7 +51,7 @@ class Solution {
         // return dummy.next;
 
         if (head == null) {
-            return null;
+            return head;
         }
 
         ListNode odd=head;
