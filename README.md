@@ -104,6 +104,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0009-palindrome-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [3870-count-commas-in-range](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Quicksort
 |  |
