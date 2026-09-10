@@ -73,6 +73,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0162-find-peak-element](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -232,4 +233,8 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
