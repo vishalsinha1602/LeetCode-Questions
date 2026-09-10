@@ -75,6 +75,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0209-minimum-size-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
@@ -237,4 +238,5 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
