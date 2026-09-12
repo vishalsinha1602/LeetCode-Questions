@@ -32,6 +32,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0560-subarray-sum-equals-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -77,6 +78,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
@@ -134,6 +136,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -156,6 +159,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0523-continuous-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
