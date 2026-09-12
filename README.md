@@ -37,6 +37,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0904-fruit-into-baskets](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -138,6 +139,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0643-maximum-average-subarray-i](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -181,6 +183,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0567-permutation-in-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -243,4 +246,8 @@ Starting Dsa Problem  for next 100 Days Consistently
 | ------- |
 | [0278-first-bad-version](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
