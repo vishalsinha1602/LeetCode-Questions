@@ -223,6 +223,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [1661-average-time-of-process-per-machine](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Recursion
 |  |
 | ------- |
