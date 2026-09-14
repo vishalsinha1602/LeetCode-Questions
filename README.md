@@ -58,6 +58,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0142-linked-list-cycle-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0344-reverse-string) |
@@ -112,6 +113,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | ------- |
 | [0009-palindrome-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [3870-count-commas-in-range](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/3871-count-commas-in-range-ii) |
@@ -175,6 +177,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0141-linked-list-cycle](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -241,6 +244,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0202-happy-number) |
 ## Bracket Sequences
 |  |
 | ------- |
