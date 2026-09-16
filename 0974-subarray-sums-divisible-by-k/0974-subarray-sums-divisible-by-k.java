@@ -12,7 +12,7 @@ class Solution {
 
             int rem = prefixSum % k;
             
-            if(rem<0)
+            if(rem<0) // to handle negative remainder
                 rem+=k;
 
             if(map.containsKey(rem))
