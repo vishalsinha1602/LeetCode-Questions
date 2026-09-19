@@ -42,6 +42,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0977-squares-of-a-sorted-array](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -89,6 +90,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0852-peak-index-in-a-mountain-array](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Linked List
 |  |
 | ------- |
