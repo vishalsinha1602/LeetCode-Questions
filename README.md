@@ -167,6 +167,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -251,6 +252,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
