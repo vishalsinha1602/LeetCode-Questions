@@ -30,6 +30,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0217-contains-duplicate](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -94,6 +95,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0162-find-peak-element](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -129,6 +131,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0169-majority-element](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0414-third-maximum-number) |
@@ -139,6 +142,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0009-palindrome-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [3870-count-commas-in-range](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/3871-count-commas-in-range-ii) |
@@ -209,6 +213,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0217-contains-duplicate](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -328,4 +333,8 @@ Starting Dsa Problem  for next 100 Days Consistently
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
