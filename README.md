@@ -100,6 +100,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0278-first-bad-version](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -144,6 +145,7 @@ Starting Dsa Problem  for next 100 Days Consistently
 | [0066-plus-one](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [3870-count-commas-in-range](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vishalsinha1602/LeetCode-Questions/tree/master/3871-count-commas-in-range-ii) |
